@@ -1,0 +1,28 @@
+====== 4. Designs ======
+~~NOTOC~~
+==== Video Content ====
+Overview of D&I Designs (1hr 5min) - Dr. Greg Aarons (UCSD): [[https://cbiit.webex.com/cbiit/ldr.php?RCID=91b8df1929b1dddbe87be952439b1bf0|Recording available here]]. The link will open a new internet page, please select the playback option.
+
+Slide deck: Aarons IS Study Designs TIDIRH 2017.pdf {{:documents:designs:aarons_is_study_designs_tidirh_2017.pdf|PDF (2,568 KB)}}
+
+==== Optional Video Content ==== 
+  *[[https://www.youtube.com/watch?v=wHLw0ur-jXs|Doug Luke - Agent Based Modeling]]
+  *[[https://www.youtube.com/watch?v=OGJiAzlcnQA|Nina Wallerstein & Bonnie Duran - Community Based Participatory Approaches]]
+
+==== Assigned Reading ==== 
+  *Brown, CH, et al. (2017). An overview of research and evaluation designs for dissemination and implementation. //Annual Review of Public Health//, 38:1-22. {{:documents:designs:brown_et_al_overview_of_research_and_evaluation_design.pdf|PDF (684 KB)}}
+  *Curran G, et al. (2012). Effectiveness- implementation Hybrid Designs: Combining Elements of Clinical Effectives and Implementation Research to Enhance Public Health Impact. //Medical Care//, 50(3): 217-226. {{:documents:designs:curran_hybrid_designs.pdf|PDF (136 KB)}}
+  *Creswell JW, Klassen AC, Plano Clark VL, and Smith KC for the Office of Behavioral and Social Sciences Research. //Best practices for mixed methods research in the health sciences//. (2011). National Institutes of Health. {{:documents:designs:obssr_best_practices_for_mixed_methods_research.pdf|PDF (282 KB)}}
+
+==== Optional Reading ==== 
+  *Palinkas L, et al. (2011). Mixed Method Designs in Implementation Research. //Administration and Policy in Mental Health//, 38:44-53. {{:documents:designs:palinkas_mixed_methods.pdf|PDF (226 KB)}}
+
+\\ 
+**<color red>NOTE: Please provide your response to the below assignment in your small group space.</color>**
+
+**<color red>Upon completing this module, please [[https://www.surveygizmo.com/s3/4469459/Designs|evaluate it here (via SurveyGizmo)]] to help us improve the training!</color>**
+ \\
+----
+=== Assignment #4: ===
+  - What is your proposed study design? Why is that the best design to answer your research questions or hypotheses?
+  - Will you be incorporating a mixed methods design into your study? If so, what approach will you use to incorporate the qualitative data into the study (e.g., integrate the quantitative and qualitative data to inform your aims? If not, why? 

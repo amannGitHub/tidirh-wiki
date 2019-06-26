@@ -1,0 +1,23 @@
+<fs 15px>Table of Contents</fs> \\
+[[Home]] \\
+[[introductions|Introductions]] \\
+[[course_calendar|Course Calendar]] \\
+[[resources|Resources]] \\
+[[person_meeting_resources|In-Person Meeting Resources]] \\
+[[faculty|Faculty]] \\
+[[intro|1. Intro to D & I Research]] \\
+[[fidelity|2. Fidelity & Adaptation]] \\
+[[models|3. Models, Measures, & Evaluation]] \\
+[[designs|4. Designs]] \\
+[[implementation|5. Implementation Strategies]] \\
+[[concept|6. Revised Concept Note]] \\
+
+<fs 14px>**Small Groups**</fs> \\
+[[community_based_settings|Community Based Settings]] \\
+[[cancer|Cancer]] \\
+[[clinical_care_delivery|Clinical Care Delivery]] \\
+[[health_systems|Health Systems]] \\
+[[hiv_aids|HIV/AIDS]] \\
+[[maternal_child_health|Maternal & Child Health]] \\
+[[mental_health|Mental Health]] \\
+[[primary_care|Primary Care]]

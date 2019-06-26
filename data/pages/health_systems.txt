@@ -1,0 +1,74 @@
+<HTML><style>
+.marquee {
+    width: 100%;
+line-height: 25px;
+	background-color: #337ab7;
+	color: white;
+    white-space: nowrap;
+    overflow: hidden;
+    box-sizing: border-box;
+}
+.marquee p {
+    display: inline-block;
+    padding-left: 100%;
+    animation: marquee 40s linear infinite;
+}
+@keyframes marquee {
+    0%   { transform: translate(0, 0); }
+    100% { transform: translate(-100%, 0); }
+}
+</style>
+<!--<div class="marquee">
+<p><b>Reminder: Don’t forget to order and pre-pay for your boxed lunches for the in person meeting on December 6-7, 2018! Order deadline is Monday, December 3, 2018</b></p>
+</div>-->
+</HTML>
+
+====== Small Group - Health Systems ======
+~~NOTOC~~
+<HTML><style>
+.plugin_wrap {padding: 0 1em 0 1em;
+margin: 0 0 0 0;
+background: #FDFCFC;
+border: 1px solid #F80105;}
+.btn-danger {display:none;}
+</style></HTML>
+
+For more information on starting a discussion post, visit this [[how-to#discussions|link]]. For information on how to monitor your small group thread and receive email notifications, visit this [[how-to#subscriptions|link]].
+
+==== Facilitators: ====
+  *Lori Ducharme
+  *David Goodrich
+  *Byron Powell
+
+
+==== Members: ====
+  *Kenneth Boockvar
+  *Kimberly Fisher
+  *Barbara Jones
+  *Tara Lagu
+  *James Pittman
+  *Sivan Spitzer-Shohat
+
+
+\\ 
+  
+<div class="feature">
+=== Assignment Submission Format: === 
+Assignments should be submitted in the following format:
+
+[YOUR LAST NAME] - Assignment #[your assignment number]
+
+1. Question Text \\ 
+[Your response]
+
+Example:
+
+BLACHMAN-DEMNER - Assignment #1a
+
+1. Draft a specific aims page (2 pages maximum) of your proposed study. Consistent with most well-written D&I-focused specific aims pages, it should generally address the following 5 elements (and questions). \\ 
+My response to this is...
+\\ 
+</div>
+\\ 
+Please post your responses and questions below.\\
+~~DISCUSSION~~

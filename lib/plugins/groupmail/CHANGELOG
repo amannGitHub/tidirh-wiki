@@ -1,0 +1,57 @@
+2018-06-26 David Cabernel <dcabernel@gmail.com>
+
+* Plugin no longer works if dokuwiki is running under PHP7 because of ereg/eregi commands removed from it
+  Replaced with preg_match command
+
+2015-09-27 Roland Wunderling <bzfwunde@gmail.com>
+
+* Added support to email to emails, wikiusers, wikigroups
+  controlled via toemail=..., touser=..., togroup=..., respectively
+* Added support to preset content text with content=....
+* Added support for auto-control of from by setting autofrom=true
+* Disabled overriding subject when setting subject=...
+  by no longer showing the subject input text box
+* changed plugin name to 'groupmail' (from 'moderncontact.)
+* added sendlog=..., to setup a log page where sent emails are logged
+
+------------------------------------------------
+
+2013-01-25 Marvin Thomas Rabe  <mrabe@marvinrabe.de>
+
+* Changed plugin name (thanks to Tekki)
+
+2012-06-09 Marvin Thomas Rabe  <mrabe@marvinrabe.de>
+
+* Spanish translation added (thanks to Cristian Wente)
+
+2012-06-06 Marvin Thomas Rabe  <mrabe@marvinrabe.de>
+
+* Reply-to set to senders email address (thanks to Cristian Wente)
+
+2011-09-14 Marvin Thomas Rabe  <mrabe@marvinrabe.de>
+
+* Polish translation added (thanks to Alex Setlak - http://alek.magazynek.org/)
+
+2011-04-16  Marvin Thomas Rabe  <mrabe@marvinrabe.de>
+
+* If user is already logged in then email and name field are already filled.
+* Updated path to plugin wiki site.
+
+2011-01-22  Marvin Thomas Rabe  <mrabe@marvinrabe.de>
+
+* Fixed localisation bug.
+* Added localization for success message.
+* Renamed some variables.
+* reCaptcha field has now a red border, if there is an error.
+
+2011-01-05  Marvin Thomas Rabe  <mrabe@marvinrabe.de>
+
+* Changelog added.
+* Mistakes in language files fixed.
+* Renamed plugin name translation to "Modern Contact Form".
+* Error with captcha parameter solved.
+* Readme updated.
+
+2010-12-28  Marvin Thomas Rabe  <mrabe@marvinrabe.de>
+
+* Initial release.

@@ -1,0 +1,12 @@
+base   groupmail
+author David Cabernel       
+email  dcabernel@gmail.com
+date   2018-06-26
+name   Group mailing system
+desc   Allows to include mailing form to wiki page from which to send
+       email to a preconfigures
+        - list of email addresses
+        - list of dokuwiki users
+        - list of dokuwiki groups
+       and maintains an archive of sent emails
+url    https://github.com/POpus/dokuwiki-groupmail

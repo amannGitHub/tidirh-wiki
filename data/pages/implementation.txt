@@ -1,0 +1,27 @@
+====== 5. Implementation Strategies ======
+~~NOTOC~~
+==== Video Content ====
+Implementation Strategies (22  minutes) - Dr. Prajakta Adsul (NCI): [[http://www.scgcorp.com/tidirh-wiki/data/media/documents/implementation_strategies/Implementation_Strategies_Native_02.mp4|Recording available here]]. This link is browser dependent, clicking it may open the recording in a new window or download the recording to your computer where you can then select to open it.
+
+Slide deck: Impl Strategies.pdf {{:documents:implementation_strategies:impl_strategies.pdf|PDF (2,026 KB)}}
+
+==== Assigned Reading ====
+  *Powell BJ, et al. (2015). A refined compilation of implementation strategies: results from the Expert Recommendations for Implementing Change (ERIC) project. //Implementation Science//, 12:10. {{:documents:implementation_strategies:powell_eric.pdf|PDF (596 KB)}}
+  *Proctor EK, Powell BJ, McMillen JC. (2013). Implementation strategies: recommendations for specifying and reporting. //Implementation Science//, 8:139. {{:documents:implementation_strategies:proctor_implementation_strategies.pdf|PDF (379 KB)}}
+  *Powell BJ, et al. (2017). Methods to Improve the Selection and Tailoring of Implementation Strategies. //Journal of Behavioral Health Services//, 44(2):177-194. {{:documents:implementation_strategies:powell_et_al_tailoring.pdf|PDF (811 KB)}}
+
+==== Optional Reading ====
+  *Kirchner J, Waltz T, Powell BJ, Smith JL, Proctor EK. (2018). Implementation Strategies (Chapter 15). Brownson R et al. //Dissemination and Implementation Research in Health: Translating Science to Practice//. New York; Oxford University Press.
+  *Leeman J, Birken SA, Powell BJ, Rohweder C, Shea CM. (2017). Beyond "implementation strategies": classifying the full range of strategies used in implementation science and practice. //Implementation Science//, 12(1):125. {{:documents:implementation_strategies:beyon_strat_-_leeman_2017.pdf|PDF (568 KB)}}
+  *Powell BJ, McMillen JC, Proctor EK, Carpenter CR, Griffey RT, Bunger AC, Glass JE, York JL. (2012). A compilation of strategies for implementing clinical innovations in health and mental health. //Medical Care Research Review//, 69(2):123-57. {{:documents:implementation_strategies:compilation_-_powell_2012.pdf|PDF (701 KB)}}
+
+\\ 
+**<color red>NOTE: Please provide your response to the below assignment in your small group space.</color>**
+
+**<color red>Upon completing this module, please [[https://www.surveygizmo.com/s3/4463334/Implementation-Strategies|evaluate it here (via SurveyGizmo)]] to help us improve the training!</color>**
+ \\
+----
+=== Assignment #5: ===
+  -If relevant, what are the specific implementation strategies that you will be focusing on in your proposed research and how have you selected them?
+  -How might you link specific implementation strategies to the context in which your work is set?
+  -If your proposed study does not involve selecting implementational strategies but you are evaluating the outcomes of exposure to a program or policy implemented by others (e.g., natural experiment), how will you measure key differences in implementation variation such as by time, population, setting/location, dose or, content? 

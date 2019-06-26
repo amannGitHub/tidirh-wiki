@@ -1,0 +1,66 @@
+====== 3. Models, Measures, & Evaluation ======
+~~NOTOC~~
+==== Video Content ====
+**Video Content 3a**: Overview of D&I Models (26 minutes) - Dr. Wynne Norton (NCI). [[https://cbiit.webex.com/cbiit/ldr.php?RCID=bcf4a2a377d69cb2cbbf4b44e710742d|Recording available here]]. The link will open a new internet page, please select the playback option.
+
+Slide deck: W Norton Theories Webinar TIDIRC.pdf {{:documents:models_measures_evaluation:w_norton_theories_webinar_tidirc.pdf| PDF (794 KB)}}
+
+**Video Content 3b**: Introduction to D&I Measures (35 minutes) - Dr. Cara Lewis (Indiana University). [[https://cbiit.webex.com/cbiit/ldr.php?RCID=873bcb08799a9f8ad92da44b4a022cd7|Recording available here]]. The link will open a new internet page, please select the playback option.
+
+Slide deck: Lewis_TIDIRH Measures.pdf {{:documents:models_measures_evaluation:lewis_tidirh_measures.pdf| PDF (4,572 KB)}}
+\\
+\\
+<fs 20px>**Module 3a: Models, Theories, Frameworks**</fs>
+\\ 
+==== Assigned Reading ====
+  *Tabak R. et al. (2013).  Models in dissemination and implementation research: useful tools in public health services and systems research. //Frontiers in Public Health Services and Systems Research//, 2:1. {{:documents:models_measures_evaluation:tabak_models_in_dissemination_and_implementation_research.pdf|PDF (1,235 KB)}}
+  *Nilsen P. (2015). Making sense of implementation theories, models and frameworks. //Implementation Science//, 10:53. {{:documents:models_measures_evaluation:nilsen_making_sense_of_implementation_theories_models_and_frameworks.pdf|PDF (607 KB)}}
+==== Optional Reading ====
+  *Damschroder L, et al. (2009). Fostering implementation of health services research findings into practice: a consolidated framework for advancing implementation science. //Implementation Science//, 4:50. {{:documents:models_measures_evaluation:damschroeder_et_al._cfir.pdf |PDF (485 KB)}}
+  *Aarons G, et al. (2014). Mixed-methods study of a conceptual model of evidence-based intervention sustainment across multiple public-sector service settings. //Implementation Science//, 9:183. {{:documents:models_measures_evaluation:aarons_epis.pdf|PDF (734 KB)}}
+  *Glasgow R. et al. (1999). Evaluating the Public Health Impact of Health Promotion Interventions: The RE-AIM Framework. //American Journal of Public Health//, 89:9. {{:documents:models_measures_evaluation:glasgow_et_al._re-aim.pdf|PDF (1,808 KB)}}
+
+==== Web Resources ====  
+  *[[http://www.dissemination-implementation.org/|Dissemination & Implementation Models in Health Research & Practice website]]
+  *[[http://www.cfirguide.org/|Consolidated Framework for Implementation Research (CFIR) website]]
+  *Advanced Topics in Implementation Science Webinar Recordings on D&I Models:
+    *[[https://www.youtube.com/watch?v=KAJ-oCJyWcs|Consolidated Framework for Implementation Research (CFIR)]] by Laura Damschroder
+    *[[https://www.youtube.com/watch?v=OYw6g0F1rTs|Exploration, Preparation, Implementation, Sustainment (EPIS)]] by Greg Aarons
+    *[[https://www.youtube.com/watch?v=Ike0t6Fd_1k|Interactive Systems Framework (ISF)]] by Abe Wandersman
+    *[[https://www.youtube.com/watch?v=ASQhwjfOYhw|Knowledge to Action Framework (KTA)]] by Sharon Straus
+    *[[https://www.youtube.com/watch?v=t4Joti5RTzA|Promoting Action on Research Implementation in Health Services Framework (PARIHS)]] by Alison Kitson & Gill Harvey
+
+\\ 
+**<color red>NOTE: Please provide your response to the below assignment in your small group space.</color>**
+
+**<color red>Upon completing this module, please [[https://www.surveygizmo.com/s3/4469519/Models-Theories-Frameworks|evaluate it here (via SurveyGizmo)]] to help us improve the training!</color>**
+\\
+\\
+<fs 20px>**Module 3b: Measures & Evaluations**</fs>
+\\ 
+==== Assigned Reading ====
+  *Proctor E, et al. (2011). Outcomes for Implementation Research: Conceptual Distinctions, Measurement Challenges, and Research Agenda. //Administration and Policy in Mental Health//, 38:65-76. {{:documents:models_measures_evaluation:proctor_et_al._outcomes_for_implementation_research.pdf|PDF (240 KB)}}
+  *Chaudoir SR, and Dugan AG. (2011). Dissemination and implementation measurement compendium: A systematic review of structural, organizational, provider, patient, and innovation level measures. Report submitted to Connecticut Institute for Clinical and Translational Science; Center for Health, Intervention, and Prevention; University of Connecticut. {{:documents:models_measures_evaluation:chaudoir_measurement-compendium.pdf|PDF (462 KB)}}
+  *Rabin B, et al. (2016). Measurement resources for dissemination and implementation research in health. //Implementation Science//, 11:42. {{:documents:models_measures_evaluation:rabin_measurement_resources.pdf|PDF (499 KB)}}
+  *Martinez R, Lewis C, Weiner B. (2014). Instrumentation issues in implementation science. //Implementation Science//, 9:118. {{:documents:models_measures_evaluation:martinez_et_al._instrumentation_issues_is.pdf|PDF (254 KB)}}
+==== Optional Reading ====
+  *Lewis A, Proctor EK, Brownson R. (2018). Measurement Issues in Dissemination and Implementation Research (Chapter 14). Brownson R. et al. //Dissemination and Implementation Research in Health: Translating Science to Practice//. New York: Oxford University Press.
+  *C.C. Lewis, S. Fischer, B.J. Weiner, C. Stanick, M. Kim, R.G. Martinez. (2015). Outcomes for implementation science: an enhanced systematic review of instruments using evidence-based rating criteria. //Implementation Science//,10, 155. {{:documents:models_measures_evaluation:lewis_2015.pdf|PDF (2,463 KB)}}
+
+==== Web Resources ====
+  *Advanced Topics in Implementation Science Webinar Recording on D&I Measures:
+    *[[https://www.youtube.com/watch?v=dGXVhRQXiz4|Advancing Implementation Science through Measure Development & Evaluation]] by Cara Lewis
+
+\\ 
+**<color red>NOTE: Please provide your response to the below assignment in your small group space.</color>**
+
+**<color red>Upon completing this module, please [[https://www.surveygizmo.com/s3/4469517/Measures-Evaluations|evaluate it here (via SurveyGizmo)]] to help us improve the training!</color>**
+ \\
+----
+=== Assignment #3a - Models: === 
+  -Which model or combination of models is most applicable to your proposed study and why?
+  -How might your selected model(s) guide or inform other aspects of your study (e.g., hypotheses, measures, outcomes, processes, selection of strategies, etc.)? 
+=== Assignment #3b - Measures & Evaluations: ===
+  -What outcomes (both clinical/system/public health and dissemination/implementation) are you measuring in your study, how are you measuring them, and why are you measuring them?
+  -What processes are you measuring in your study, how are you measuring them, and why are you measuring them?
+  -Will you be assessing any potential co-benefits or unintended consequences of the implementation? If so, what outcomes will you assess and how will you measure this? If not, why not? 

@@ -1,0 +1,5 @@
+<span class="sc2">&lt;<a target="_blank" href="http://december.com/html/4/element/style.html"><span class="kw2">style</span></a>&gt;</span>
+.code{
+   background-color: red !important;
+}
+<span class="sc2">&lt;<span class="sy0">/</span><a target="_blank" href="http://december.com/html/4/element/style.html"><span class="kw2">style</span></a>&gt;</span>

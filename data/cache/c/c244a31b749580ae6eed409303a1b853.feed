@@ -1,0 +1,511 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- generator="FeedCreator 1.8" -->
+<?xml-stylesheet href="http://www.scgcorp.com/tidirh-wiki/lib/exe/css.php?s=feed" type="text/css"?>
+<rdf:RDF
+    xmlns="http://purl.org/rss/1.0/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <channel rdf:about="http://www.scgcorp.com/tidirh-wiki/feed.php">
+        <title>TIDIRH 2018</title>
+        <description></description>
+        <link>http://www.scgcorp.com/tidirh-wiki/</link>
+        <image rdf:resource="http://www.scgcorp.com/tidirh-wiki/lib/tpl/bootstrap3/images/favicon.ico" />
+       <dc:date>2018-10-18T15:54:15-0400</dc:date>
+        <items>
+            <rdf:Seq>
+                <rdf:li rdf:resource="http://www.scgcorp.com/tidirh-wiki/doku.php?id=cancer&amp;rev=1539265051&amp;do=diff"/>
+                <rdf:li rdf:resource="http://www.scgcorp.com/tidirh-wiki/doku.php?id=clinical_care_delivery&amp;rev=1539265069&amp;do=diff"/>
+                <rdf:li rdf:resource="http://www.scgcorp.com/tidirh-wiki/doku.php?id=community_based_settings&amp;rev=1539265034&amp;do=diff"/>
+                <rdf:li rdf:resource="http://www.scgcorp.com/tidirh-wiki/doku.php?id=concept&amp;rev=1531493991&amp;do=diff"/>
+                <rdf:li rdf:resource="http://www.scgcorp.com/tidirh-wiki/doku.php?id=course_calendar&amp;rev=1538151251&amp;do=diff"/>
+                <rdf:li rdf:resource="http://www.scgcorp.com/tidirh-wiki/doku.php?id=designs&amp;rev=1532015465&amp;do=diff"/>
+                <rdf:li rdf:resource="http://www.scgcorp.com/tidirh-wiki/doku.php?id=emailgroup&amp;rev=1534874130&amp;do=diff"/>
+                <rdf:li rdf:resource="http://www.scgcorp.com/tidirh-wiki/doku.php?id=facilitators&amp;rev=1529695725&amp;do=diff"/>
+                <rdf:li rdf:resource="http://www.scgcorp.com/tidirh-wiki/doku.php?id=faculty&amp;rev=1538507910&amp;do=diff"/>
+                <rdf:li rdf:resource="http://www.scgcorp.com/tidirh-wiki/doku.php?id=fidelity&amp;rev=1532017385&amp;do=diff"/>
+                <rdf:li rdf:resource="http://www.scgcorp.com/tidirh-wiki/doku.php?id=health_systems&amp;rev=1539265085&amp;do=diff"/>
+                <rdf:li rdf:resource="http://www.scgcorp.com/tidirh-wiki/doku.php?id=hiv_aids&amp;rev=1539265106&amp;do=diff"/>
+                <rdf:li rdf:resource="http://www.scgcorp.com/tidirh-wiki/doku.php?id=home&amp;rev=1539264989&amp;do=diff"/>
+                <rdf:li rdf:resource="http://www.scgcorp.com/tidirh-wiki/doku.php?id=how-to&amp;rev=1533584314&amp;do=diff"/>
+                <rdf:li rdf:resource="http://www.scgcorp.com/tidirh-wiki/doku.php?id=implementation&amp;rev=1533828363&amp;do=diff"/>
+                <rdf:li rdf:resource="http://www.scgcorp.com/tidirh-wiki/doku.php?id=intro&amp;rev=1533827855&amp;do=diff"/>
+                <rdf:li rdf:resource="http://www.scgcorp.com/tidirh-wiki/doku.php?id=introduction&amp;rev=1530130553&amp;do=diff"/>
+                <rdf:li rdf:resource="http://www.scgcorp.com/tidirh-wiki/doku.php?id=introductions&amp;rev=1535042379&amp;do=diff"/>
+                <rdf:li rdf:resource="http://www.scgcorp.com/tidirh-wiki/doku.php?id=maternal_child_health&amp;rev=1539265121&amp;do=diff"/>
+                <rdf:li rdf:resource="http://www.scgcorp.com/tidirh-wiki/doku.php?id=measures&amp;rev=1525808469&amp;do=diff"/>
+                <rdf:li rdf:resource="http://www.scgcorp.com/tidirh-wiki/doku.php?id=mental_health&amp;rev=1539265138&amp;do=diff"/>
+                <rdf:li rdf:resource="http://www.scgcorp.com/tidirh-wiki/doku.php?id=models&amp;rev=1532020861&amp;do=diff"/>
+                <rdf:li rdf:resource="http://www.scgcorp.com/tidirh-wiki/doku.php?id=person_meeting_resources&amp;rev=1537819980&amp;do=diff"/>
+                <rdf:li rdf:resource="http://www.scgcorp.com/tidirh-wiki/doku.php?id=primary_care&amp;rev=1539265154&amp;do=diff"/>
+                <rdf:li rdf:resource="http://www.scgcorp.com/tidirh-wiki/doku.php?id=resources&amp;rev=1539119143&amp;do=diff"/>
+                <rdf:li rdf:resource="http://www.scgcorp.com/tidirh-wiki/doku.php?id=session&amp;rev=1525808601&amp;do=diff"/>
+                <rdf:li rdf:resource="http://www.scgcorp.com/tidirh-wiki/doku.php?id=sidebar&amp;rev=1532528841&amp;do=diff"/>
+            </rdf:Seq>
+        </items>
+    </channel>
+    <image rdf:about="http://www.scgcorp.com/tidirh-wiki/lib/tpl/bootstrap3/images/favicon.ico">
+        <title>TIDIRH 2018</title>
+        <link>http://www.scgcorp.com/tidirh-wiki/</link>
+        <url>http://www.scgcorp.com/tidirh-wiki/lib/tpl/bootstrap3/images/favicon.ico</url>
+    </image>
+    <item rdf:about="http://www.scgcorp.com/tidirh-wiki/doku.php?id=cancer&amp;rev=1539265051&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2018-10-11T09:37:31-0400</dc:date>
+        <dc:creator>Anonymous (anonymous@undisclosed.example.com)</dc:creator>
+        <title>cancer</title>
+        <link>http://www.scgcorp.com/tidirh-wiki/doku.php?id=cancer&amp;rev=1539265051&amp;do=diff</link>
+        <description>Small Group - Cancer
+
+
+
+For more information on starting a discussion post, visit this link. For information on how to monitor your small group thread and receive email notifications, visit this link.
+
+Facilitators:
+
+	* Gila Neta
+	* Wynne Norton
+	* David Chambers</description>
+    </item>
+    <item rdf:about="http://www.scgcorp.com/tidirh-wiki/doku.php?id=clinical_care_delivery&amp;rev=1539265069&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2018-10-11T09:37:49-0400</dc:date>
+        <dc:creator>Anonymous (anonymous@undisclosed.example.com)</dc:creator>
+        <title>clinical_care_delivery</title>
+        <link>http://www.scgcorp.com/tidirh-wiki/doku.php?id=clinical_care_delivery&amp;rev=1539265069&amp;do=diff</link>
+        <description>Small Group - Clinical Care Delivery
+
+
+
+For more information on starting a discussion post, visit this link. For information on how to monitor your small group thread and receive email notifications, visit this link.
+
+Facilitators:
+
+	* Kate Stoney
+	* Augie Diana</description>
+    </item>
+    <item rdf:about="http://www.scgcorp.com/tidirh-wiki/doku.php?id=community_based_settings&amp;rev=1539265034&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2018-10-11T09:37:14-0400</dc:date>
+        <dc:creator>Anonymous (anonymous@undisclosed.example.com)</dc:creator>
+        <title>community_based_settings</title>
+        <link>http://www.scgcorp.com/tidirh-wiki/doku.php?id=community_based_settings&amp;rev=1539265034&amp;do=diff</link>
+        <description>Small Group - Community Based Settings
+
+
+
+For more information on starting a discussion post, visit this link. For information on how to monitor your small group thread and receive email notifications, visit this link.
+
+Facilitators:
+
+	* Belinda Sims
+	* Lisa Saldana</description>
+    </item>
+    <item rdf:about="http://www.scgcorp.com/tidirh-wiki/doku.php?id=concept&amp;rev=1531493991&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2018-07-13T10:59:51-0400</dc:date>
+        <dc:creator>Anonymous (anonymous@undisclosed.example.com)</dc:creator>
+        <title>concept</title>
+        <link>http://www.scgcorp.com/tidirh-wiki/doku.php?id=concept&amp;rev=1531493991&amp;do=diff</link>
+        <description>6. Revised Concept Note
+
+
+TIDIRH@nih.gov
+
+
+
+----------
+
+Assignment #6:
+
+The sixth and final assignment of the online training is a revision of your concept note, using the preceding five modules of course material and feedback from your group and faculty. There are two sections we are looking for in this document:</description>
+    </item>
+    <item rdf:about="http://www.scgcorp.com/tidirh-wiki/doku.php?id=course_calendar&amp;rev=1538151251&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2018-09-28T12:14:11-0400</dc:date>
+        <dc:creator>Anonymous (anonymous@undisclosed.example.com)</dc:creator>
+        <title>course_calendar</title>
+        <link>http://www.scgcorp.com/tidirh-wiki/doku.php?id=course_calendar&amp;rev=1538151251&amp;do=diff</link>
+        <description>Course Calendar
+
+We suggest adding these dates to your calendars.
+
+
+
+August 13: All Course Content is available 
+
+August 24: Response to Module 1 due
+
+	* August 31: Facilitator response provided 
+		* Week of Sept.4: Small group calls held via WebEx or teleconference</description>
+    </item>
+    <item rdf:about="http://www.scgcorp.com/tidirh-wiki/doku.php?id=designs&amp;rev=1532015465&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2018-07-19T11:51:05-0400</dc:date>
+        <dc:creator>Anonymous (anonymous@undisclosed.example.com)</dc:creator>
+        <title>designs</title>
+        <link>http://www.scgcorp.com/tidirh-wiki/doku.php?id=designs&amp;rev=1532015465&amp;do=diff</link>
+        <description>4. Designs
+
+
+
+Video Content
+
+Overview of D&amp;I Designs (1hr 5min) - Dr. Greg Aarons (UCSD): Recording available here. The link will open a new internet page, please select the playback option.
+
+Slide deck: Aarons IS Study Designs TIDIRH 2017.pdf [PDF (2,568 KB)]
+
+Optional Video Content
+
+	* Doug Luke - Agent Based Modeling</description>
+    </item>
+    <item rdf:about="http://www.scgcorp.com/tidirh-wiki/doku.php?id=emailgroup&amp;rev=1534874130&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2018-08-21T13:55:30-0400</dc:date>
+        <dc:creator>Anonymous (anonymous@undisclosed.example.com)</dc:creator>
+        <title>emailgroup</title>
+        <link>http://www.scgcorp.com/tidirh-wiki/doku.php?id=emailgroup&amp;rev=1534874130&amp;do=diff</link>
+        <description></description>
+    </item>
+    <item rdf:about="http://www.scgcorp.com/tidirh-wiki/doku.php?id=facilitators&amp;rev=1529695725&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2018-06-22T15:28:45-0400</dc:date>
+        <dc:creator>Anonymous (anonymous@undisclosed.example.com)</dc:creator>
+        <title>facilitators</title>
+        <link>http://www.scgcorp.com/tidirh-wiki/doku.php?id=facilitators&amp;rev=1529695725&amp;do=diff</link>
+        <description></description>
+    </item>
+    <item rdf:about="http://www.scgcorp.com/tidirh-wiki/doku.php?id=faculty&amp;rev=1538507910&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2018-10-02T15:18:30-0400</dc:date>
+        <dc:creator>Anonymous (anonymous@undisclosed.example.com)</dc:creator>
+        <title>faculty</title>
+        <link>http://www.scgcorp.com/tidirh-wiki/doku.php?id=faculty&amp;rev=1538507910&amp;do=diff</link>
+        <description>Faculty
+
+
+
+Facilitators
+   Nick Bowersox 
+Director, QUERI Center for Evaluation and Implementation Resources (CEIR) 
+Investigator, VA Serious Mental Illness Treatment Resource and Evaluation Center (SMITREC) 
+Staff Psychologist, Ann Arbor VA Psychosocial Rehabilitation and Recovery Center</description>
+    </item>
+    <item rdf:about="http://www.scgcorp.com/tidirh-wiki/doku.php?id=fidelity&amp;rev=1532017385&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2018-07-19T12:23:05-0400</dc:date>
+        <dc:creator>Anonymous (anonymous@undisclosed.example.com)</dc:creator>
+        <title>fidelity</title>
+        <link>http://www.scgcorp.com/tidirh-wiki/doku.php?id=fidelity&amp;rev=1532017385&amp;do=diff</link>
+        <description>2. Fidelity &amp; Adaptation
+
+
+
+Video Content
+
+Fidelity &amp; Adaptation (38 minutes) - Dr. David Chambers (NCI). Recording available here. The link will open a new internet page, please select the playback option.
+
+Slide deck: FINAL fidelityadaptation.pdf [PDF (1,975 KB)]
+
+Assigned Reading
+
+	* Gonzales Castro F, Yasui M. (2017). Advances in EBI Development for Diverse Populations: Towards a Science of Intervention Adaption.</description>
+    </item>
+    <item rdf:about="http://www.scgcorp.com/tidirh-wiki/doku.php?id=health_systems&amp;rev=1539265085&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2018-10-11T09:38:05-0400</dc:date>
+        <dc:creator>Anonymous (anonymous@undisclosed.example.com)</dc:creator>
+        <title>health_systems</title>
+        <link>http://www.scgcorp.com/tidirh-wiki/doku.php?id=health_systems&amp;rev=1539265085&amp;do=diff</link>
+        <description>Small Group - Health Systems
+
+
+
+For more information on starting a discussion post, visit this link. For information on how to monitor your small group thread and receive email notifications, visit this link.
+
+Facilitators:
+
+	* Lori Ducharme
+	* David Goodrich</description>
+    </item>
+    <item rdf:about="http://www.scgcorp.com/tidirh-wiki/doku.php?id=hiv_aids&amp;rev=1539265106&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2018-10-11T09:38:26-0400</dc:date>
+        <dc:creator>Anonymous (anonymous@undisclosed.example.com)</dc:creator>
+        <title>hiv_aids</title>
+        <link>http://www.scgcorp.com/tidirh-wiki/doku.php?id=hiv_aids&amp;rev=1539265106&amp;do=diff</link>
+        <description>Small Group - HIV/AIDS
+
+
+
+For more information on starting a discussion post, visit this link. For information on how to monitor your small group thread and receive email notifications, visit this link.
+
+Facilitators:
+
+	* Chris Gordon
+	* Linda Kupfer
+
+Members:</description>
+    </item>
+    <item rdf:about="http://www.scgcorp.com/tidirh-wiki/doku.php?id=home&amp;rev=1539264989&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2018-10-11T09:36:29-0400</dc:date>
+        <dc:creator>Anonymous (anonymous@undisclosed.example.com)</dc:creator>
+        <title>home</title>
+        <link>http://www.scgcorp.com/tidirh-wiki/doku.php?id=home&amp;rev=1539264989&amp;do=diff</link>
+        <description>Welcome!
+
+This is the private workspace for participants in the 2018 Training Institute for Dissemination and Implementation Research in Health (TIDIRH) hosted by the Office of Behavioral and Social Sciences Research in coordination with a number of National Institutes of Health (NIH) Institutes and Centers and the U.S. Department of Veterans Affairs (VA). You can find the course materials and your small group discussion pages using the sidebar navigation. Please take a moment to familiarize you…</description>
+    </item>
+    <item rdf:about="http://www.scgcorp.com/tidirh-wiki/doku.php?id=how-to&amp;rev=1533584314&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2018-08-06T15:38:34-0400</dc:date>
+        <dc:creator>Anonymous (anonymous@undisclosed.example.com)</dc:creator>
+        <title>how-to</title>
+        <link>http://www.scgcorp.com/tidirh-wiki/doku.php?id=how-to&amp;rev=1533584314&amp;do=diff</link>
+        <description>How To Use
+
+How to use the TIDIRH 2018 Dokuwiki site:
+
+Only community members with a userID and password may log into the TIDIRH 2018 website at this time.
+
+To Sign In:
+
+	*  On the login page enter your username and password.
+	*  You are now logged into the scgcorp.com/tidirh-wiki website.&lt;a name=&quot;subscriptions&quot;&gt;&lt;/a&gt;&lt;a name=&quot;discussions&quot;&gt;&lt;/a&gt;</description>
+    </item>
+    <item rdf:about="http://www.scgcorp.com/tidirh-wiki/doku.php?id=implementation&amp;rev=1533828363&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2018-08-09T11:26:03-0400</dc:date>
+        <dc:creator>Anonymous (anonymous@undisclosed.example.com)</dc:creator>
+        <title>implementation</title>
+        <link>http://www.scgcorp.com/tidirh-wiki/doku.php?id=implementation&amp;rev=1533828363&amp;do=diff</link>
+        <description>5. Implementation Strategies
+
+
+
+Video Content
+
+Implementation Strategies (22  minutes) - Dr. Prajakta Adsul (NCI): Recording available here. This link is browser dependent, clicking it may open the recording in a new window or download the recording to your computer where you can then select to open it.</description>
+    </item>
+    <item rdf:about="http://www.scgcorp.com/tidirh-wiki/doku.php?id=intro&amp;rev=1533827855&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2018-08-09T11:17:35-0400</dc:date>
+        <dc:creator>Anonymous (anonymous@undisclosed.example.com)</dc:creator>
+        <title>intro</title>
+        <link>http://www.scgcorp.com/tidirh-wiki/doku.php?id=intro&amp;rev=1533827855&amp;do=diff</link>
+        <description>1. Introduction to Dissemination and Implementation Research
+
+
+
+Video Content
+
+Welcome &amp; Overview (10 minutes) - Dr. Christine Hunter (OBSSR) Recording available here. 
+The link will open a new internet page, please select the playback option.
+
+Slide deck: TIDIRH 2018_Intro slides.pdf</description>
+    </item>
+    <item rdf:about="http://www.scgcorp.com/tidirh-wiki/doku.php?id=introduction&amp;rev=1530130553&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2018-06-27T16:15:53-0400</dc:date>
+        <dc:creator>Anonymous (anonymous@undisclosed.example.com)</dc:creator>
+        <title>introduction</title>
+        <link>http://www.scgcorp.com/tidirh-wiki/doku.php?id=introduction&amp;rev=1530130553&amp;do=diff</link>
+        <description>1. Introductions</description>
+    </item>
+    <item rdf:about="http://www.scgcorp.com/tidirh-wiki/doku.php?id=introductions&amp;rev=1535042379&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2018-08-23T12:39:39-0400</dc:date>
+        <dc:creator>Anonymous (anonymous@undisclosed.example.com)</dc:creator>
+        <title>introductions</title>
+        <link>http://www.scgcorp.com/tidirh-wiki/doku.php?id=introductions&amp;rev=1535042379&amp;do=diff</link>
+        <description>Introductions
+ Photo       Name/Title        Organization        Research Interest         E-mail     Ana Bastos de Carvalho  University of Kentucky,
+Department of Ophthalmology &amp; Visual Sciences  Ophthalmology interventions for underserved populations; leverages IS and telemedicine to provide diabetic eye disease screening for rural populations in Kentucky</description>
+    </item>
+    <item rdf:about="http://www.scgcorp.com/tidirh-wiki/doku.php?id=maternal_child_health&amp;rev=1539265121&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2018-10-11T09:38:41-0400</dc:date>
+        <dc:creator>Anonymous (anonymous@undisclosed.example.com)</dc:creator>
+        <title>maternal_child_health</title>
+        <link>http://www.scgcorp.com/tidirh-wiki/doku.php?id=maternal_child_health&amp;rev=1539265121&amp;do=diff</link>
+        <description>Small Group - Maternal &amp; Child Health
+
+
+
+For more information on starting a discussion post, visit this link. For information on how to monitor your small group thread and receive email notifications, visit this link.
+
+Facilitators:
+
+	* Rachel Sturke
+	* Lauren Brookman-Frazee</description>
+    </item>
+    <item rdf:about="http://www.scgcorp.com/tidirh-wiki/doku.php?id=measures&amp;rev=1525808469&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2018-05-08T15:41:09-0400</dc:date>
+        <dc:creator>Anonymous (anonymous@undisclosed.example.com)</dc:creator>
+        <title>measures</title>
+        <link>http://www.scgcorp.com/tidirh-wiki/doku.php?id=measures&amp;rev=1525808469&amp;do=diff</link>
+        <description>3. Measures</description>
+    </item>
+    <item rdf:about="http://www.scgcorp.com/tidirh-wiki/doku.php?id=mental_health&amp;rev=1539265138&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2018-10-11T09:38:58-0400</dc:date>
+        <dc:creator>Anonymous (anonymous@undisclosed.example.com)</dc:creator>
+        <title>mental_health</title>
+        <link>http://www.scgcorp.com/tidirh-wiki/doku.php?id=mental_health&amp;rev=1539265138&amp;do=diff</link>
+        <description>Small Group - Mental Health
+
+
+
+For more information on starting a discussion post, visit this link. For information on how to monitor your small group thread and receive email notifications, visit this link.
+
+Facilitators:
+
+	* Denny Pintello
+	* Lindsey Zimmerman</description>
+    </item>
+    <item rdf:about="http://www.scgcorp.com/tidirh-wiki/doku.php?id=models&amp;rev=1532020861&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2018-07-19T13:21:01-0400</dc:date>
+        <dc:creator>Anonymous (anonymous@undisclosed.example.com)</dc:creator>
+        <title>models</title>
+        <link>http://www.scgcorp.com/tidirh-wiki/doku.php?id=models&amp;rev=1532020861&amp;do=diff</link>
+        <description>3. Models, Measures, &amp; Evaluation
+
+
+
+Video Content
+
+Video Content 3a: Overview of D&amp;I Models (26 minutes) - Dr. Wynne Norton (NCI). Recording available here. The link will open a new internet page, please select the playback option.
+
+Slide deck: W Norton Theories Webinar TIDIRC.pdf</description>
+    </item>
+    <item rdf:about="http://www.scgcorp.com/tidirh-wiki/doku.php?id=person_meeting_resources&amp;rev=1537819980&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2018-09-24T16:13:00-0400</dc:date>
+        <dc:creator>Anonymous (anonymous@undisclosed.example.com)</dc:creator>
+        <title>person_meeting_resources</title>
+        <link>http://www.scgcorp.com/tidirh-wiki/doku.php?id=person_meeting_resources&amp;rev=1537819980&amp;do=diff</link>
+        <description>In-Person Meeting Resources
+
+Logistical Information
+
+December 6 – December 7, 2018
+
+6700A Rockledge Boulevard, Bethesda, MD
+
+8:00 a.m.– 5:00 p.m. ET (Agenda to be provided)
+
+
+
+Boxed Lunches Available: Registrants may purchase a boxed lunch for one or both days. The total cost with tax for each sandwich lunch box is $14.00 per day. For convenience, please consider pre-purchasing a boxed lunch using the link below.</description>
+    </item>
+    <item rdf:about="http://www.scgcorp.com/tidirh-wiki/doku.php?id=primary_care&amp;rev=1539265154&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2018-10-11T09:39:14-0400</dc:date>
+        <dc:creator>Anonymous (anonymous@undisclosed.example.com)</dc:creator>
+        <title>primary_care</title>
+        <link>http://www.scgcorp.com/tidirh-wiki/doku.php?id=primary_care&amp;rev=1539265154&amp;do=diff</link>
+        <description>Small Group - Primary Care
+
+
+
+For more information on starting a discussion post, visit this link. For information on how to monitor your small group thread and receive email notifications, visit this link.
+
+Facilitators:
+
+	* Christian Helfrich
+	* Mike Engelgau</description>
+    </item>
+    <item rdf:about="http://www.scgcorp.com/tidirh-wiki/doku.php?id=resources&amp;rev=1539119143&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2018-10-09T17:05:43-0400</dc:date>
+        <dc:creator>Anonymous (anonymous@undisclosed.example.com)</dc:creator>
+        <title>resources</title>
+        <link>http://www.scgcorp.com/tidirh-wiki/doku.php?id=resources&amp;rev=1539119143&amp;do=diff</link>
+        <description>Resources
+
+
+
+Q&amp;A Call
+
+TIDIRH Live Q&amp;A Faculty WebEx Session-20181009 1801-1 (1 hour 6 minutes) 
+
+Tuesday, October 9, 2018 
+
+2:00 pm Eastern Daylight time 
+
+
+
+General Websites
+
+	* ODP D&amp;I Resources 
+	* NCI DCCPS Implementation Science Team
+	* Cancer Control P.L.A.N.E.T. (Plan, Link, Act, Network with Evidence-based Tools)
+	* Implementation Science Journal
+	* WHO Implementation Research Platform
+	* KT Canada
+	* Implementation Science Exchange
+	* WHO TDR Implementation Toolkit
+
+Suggested textbook …</description>
+    </item>
+    <item rdf:about="http://www.scgcorp.com/tidirh-wiki/doku.php?id=session&amp;rev=1525808601&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2018-05-08T15:43:21-0400</dc:date>
+        <dc:creator>Anonymous (anonymous@undisclosed.example.com)</dc:creator>
+        <title>session</title>
+        <link>http://www.scgcorp.com/tidirh-wiki/doku.php?id=session&amp;rev=1525808601&amp;do=diff</link>
+        <description>6. Q&amp;A Session &amp; Concept Note</description>
+    </item>
+    <item rdf:about="http://www.scgcorp.com/tidirh-wiki/doku.php?id=sidebar&amp;rev=1532528841&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2018-07-25T10:27:21-0400</dc:date>
+        <dc:creator>Anonymous (anonymous@undisclosed.example.com)</dc:creator>
+        <title>sidebar</title>
+        <link>http://www.scgcorp.com/tidirh-wiki/doku.php?id=sidebar&amp;rev=1532528841&amp;do=diff</link>
+        <description>Home 
+
+Introductions 
+
+Course Calendar 
+
+Resources 
+
+In-Person Meeting Resources 
+
+Faculty 
+
+1. Intro to D &amp; I Research 
+
+2. Fidelity &amp; Adaptation 
+
+3. Models, Measures, &amp; Evaluation 
+
+4. Designs 
+
+5. Implementation Strategies 
+
+6. Revised Concept Note 
+
+
+Small Groups 
+
+Community Based Settings 
+
+Cancer 
+
+Clinical Care Delivery 
+
+Health Systems 
+
+HIV/AIDS 
+
+Maternal &amp; Child Health 
+
+Mental Health 
+
+Primary Care</description>
+    </item>
+</rdf:RDF>

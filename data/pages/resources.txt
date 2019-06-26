@@ -1,0 +1,44 @@
+====== Resources ======
+~~NOTOC~~
+==== Q&A Call ====
+[[https://nih.webex.com/nih/lsr.php?RCID=261df8c3f0f24081a8fda8faa64bc07f|TIDIRH Live Q&A Faculty WebEx Session-20181009 1801-1]] (1 hour 6 minutes) \\
+Tuesday, October 9, 2018 \\
+2:00 pm Eastern Daylight time \\
+Call Notes: Live Q&A Call Notes.pdf {{:documents:resources:live_q_a_call_notes.pdf |PDF (188 KB)}}
+
+==== General Websites ====
+  *[[https://prevention.nih.gov/resources-for-researchers/dissemination-and-implementation-resources|ODP D&I Resources]] 
+  *[[https://cancercontrol.cancer.gov/is/|NCI DCCPS Implementation Science Team]]
+  *[[https://cancercontrolplanet.cancer.gov/|Cancer Control P.L.A.N.E.T. (Plan, Link, Act, Network with Evidence-based Tools)]]
+  *[[http://www.implementationscience.com/|Implementation Science Journal]]
+  *[[http://www.who.int/alliance-hpsr/projects/implementationresearch/en/|WHO Implementation Research Platform]]
+  *[[http://ktclearinghouse.ca/ktcanada|KT Canada]]
+  *[[http://portals.tracs.unc.edu/index.php/d-iportal/d-i-portal|Implementation Science Exchange]]
+  *[[http://www.who.int/tdr/publications/topics/ir-toolkit/en/|WHO TDR Implementation Toolkit]]
+  *[[https://impsciuw.org/|UW Implementation Science Resource Hub]]
+ 
+==== Suggested textbook references for this course (not required) ====
+  *Brownson RC, Colditz GA, Proctor EK. (2018). //Dissemination and Implementation Research in Health: Translating Science to Practice// (2nd ed). New York: Oxford University Press, Inc.
+  *Straus S, Tetroe J, Graham I. (2013). //Knowledge Translation in Health Care: Moving from Evidence to Practice//. Wiley-Blackwell. 
+
+==== Grantsmanship websites ====
+  *[[https://grants.nih.gov/policy/clinical-trials.htm|OER Clinical Trial Requirements]]  
+  *[[https://cancercontrol.cancer.gov/IS/sample-grant-applications.html|NCI implementation science sample grants]] 
+  *[[https://cancercontrol.cancer.gov/brp/funding/sample-application.html|NCI behavioral funding sample grants]] 
+  *[[https://impsci.tracs.unc.edu/get-funded/sample-grants/|UNC sample grants]] 
+  *[[http://www.biosciencewriters.com/NIH-Grant-Applications-The-Anatomy-of-a-Specific-Aims-Page.aspx|NIH anatomy of a specific aims page]]
+
+==== Grantsmanship articles ====
+  *Brownson et al. (2015). Concocting that Magic Elixir: Successful Grant Application Writing in Dissemination and Implementation Research. //Clinical and Translational Science//, 8(6):710-716. {{:documents:resources:brownson_successful_grant_application_writing.pdf|PDF (202 KB)}}
+  *Pinnock et al. (2017). Standards for Reporting Implementation Studies (StaRI) Statement. //BMJ//, 356(9). {{:documents:resources:pinnock_et_al.pdf|PDF (614 KB)}} 
+  *Wilson et al. (2017). Enhancing the reporting of implementation research. //Implementation Science//, 12(13):1-9. {{:documents:resources:wilson_et_al.pdf|PDF (407 KB)}} 
+  *Crable et al. (2018). Standardizing an approach to the evaluation of implementation science proposals. //Implementation Science//, 13(71). {{:documents:resources:crable_et_al.pdf|PDF (631 KB)}} 
+
+==== Faculty recommended optional readings (additions may be made throughout the course) ====
+  *Niven et al. (2015). Towards understanding the de-adoption of low-value clinical practices: a scoping review. //BMC Medicine//, 13(255). {{:documents:resources:niven_et_al.pdf|PDF (1,717 KB)}} 
+  *Norton et al. (2017). Studying de-implementation in health: an analysis of funded research grants. //Implementation Science//, 12(144). {{:documents:resources:norton_et_al.pdf|PDF (674 KB)}} 
+  *Brownson et al. (2015). Understanding Mis-implementation in Public Health Practice. //American Journal of Preventative Medicine//, 48(5): 543-551. {{:documents:resources:brownson_et_al.pdf|PDF (196 KB)}}  
+  *Wang et al. (2018). Working smarter not harder: Coupling implementation to de-implementation. //Healthcare//, 6(2):104-107.PD De-implementation and implementation. {{:documents:resources:wang_et_al.pdf|PDF (368 KB)}} 
+  *Darnell et al. (2017). A content analysis of dissemination and implementation science resource initiatives: what types of resources do they offer to advance the field? //Implementation Science//, 12(137). {{:documents:resources:darnell_et_al.pdf|PDF (465 KB)}} 
+  *Chambers et al. (2013). The dynamic sustainability framework: addressing the paradox of sustainment amid ongoing change. //Implementation Science//, 8(117). {{:documents:resources:chambers_et_al.pdf|PDF (865 KB)}} 
+  *National Cancer Institute - Division of Cancer Control & Population Sciences. (2018). Qualitative Methods In Implementation Science. {{:documents:resources:nci-dccps-implementationscience-whitepaper.pdf|PDF (1,089 KB)}}

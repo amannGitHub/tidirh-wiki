@@ -1,0 +1,91 @@
+h1. Group email plugin
+
+p. In the search for a contact form for Dokuwiki I only found that of By Marvin
+Thomas Rabe (https://github.com/marvinrabe/dokuwiki-contact) which I started
+using.  However, I wanted to use it to send out email to a group of people which
+is not quite supported.  I therefore started extending it, and changing the
+usage somewhat.  Thus I could not contribute my changes to the existing pluging
+since an update would render existing wiki pages unusable.
+
+h2. Features
+
+p. Extended from moderncontact by Thomas Rabe but:
+
+* support emailing to emails
+* support emailing to dokuwiki group members
+* archiving sent emails
+* support force sending with registered identity
+* support presetting text for email message
+
+p. If you have some more ideas, feel free to contact me.
+
+h3. Languages
+
+p. Following languages are  available:
+
+* English
+* French (partially)
+* German
+* Polish (by Alex Setlak)
+* Portuguese (partially)
+* Russian (partially)
+* Spanish (by Cristian Wente)
+
+h2. Requirements
+
+p. To use this Plugin you need the following system:
+
+* PHP >= 5.1.2
+* Dokuwiki >= 2009-02-14b
+* reCaptcha keys (optional)
+
+p. You can receive the needed reCaptcha keys on http://www.google.com/recaptcha.
+
+h2. Usage 
+
+p. The integration is the same as in the plugin by Baddeley. Simply use this code:
+
+bc. {{groupmail>}}
+
+p. This will create a groupmail form with a "name","email address", "subject" and "comment" field. It will send an email to whatever the default value is. If you enabled the captcha by default, than it will also show the well known reCaptcha input fields.
+
+p. You can also specify several parameters. If you only need one parameter you simply use:
+
+bc. {{groupmail>subject=Feedback from Site}}
+
+p. or join multiple of them with a | character:
+
+bc. {{groupmail>toemail=example@mail.com|subject=Feedback from Site}}
+
+p. or email to dokuwiki users (via dokuwiki login names)
+
+bc. {{groupmail>touser=dokuwikiuser}}
+
+p. or email to dokuwiki group members (via dokuwiki group names
+
+bc. {{groupmail>togroup=dokuwikigroup}}
+
+p. Don't allow to override the sender name or email, but use registered user
+
+bc. {{groupmail>autofrom}}
+
+p. Preset a text in the email content:
+
+bc. {{groupmail>content=Feedback for the wiki:}}
+
+p. Define a log dokuwiki file where all emails are logged to for later reference.
+
+bc. {{groupmail>sendlog=:path:to:log:file}}
+
+
+
+h3. Available parameters
+
+| subject=... | If the subject is specified in the parameters then it is not a field on the email form. |
+| autofrom | If specified, the sender fields are not shown in the email form. |
+| toemail=... | a (list of) email address(es) to sent email to. |
+| touser=... | a (list of) dokuwiki user account names to send email to. |
+| togroup=... | a (list of) dokuwiki group names to send email to. |
+| content=... | Text that should be prefilled in the email body. |
+| sendlog=... | Define a dokuwiki file where all emails are prepended to. |
+| captcha | If set to true, the captcha will be enabled. Set it on false to disable it. You must activate the captcha by default in order to change its status with this parameter. |

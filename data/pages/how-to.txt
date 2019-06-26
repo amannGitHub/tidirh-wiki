@@ -1,0 +1,57 @@
+~~NOTOC~~
+====== How To Use ======
+
+===== How to use the TIDIRH 2018 Dokuwiki site: =====
+Only community members with a userID and password may log into the TIDIRH 2018 website at this time.
+
+===== To Sign In: =====
+  - On the login page enter your username and password.
+  - You are now logged into the scgcorp.com/tidirh-wiki website.
+
+===== Account Information =====
+Your account will be created by the TIDIRH 2018 website administrator to include your full name, username, and password. By default, the naming convention for usernames will be in the format "firstinitialLastname" (e.g. jdoe). If for any reason your name has been misrepresented or you have a preferred name, please contact the website administrator and we will be happy to accommodate requests when possible. Once your account is created, you should receive an email with your username and password, along with a link to go to the TIDIRH site.
+
+==== Changing Your Password ====
+  - Log into the TIDIRH 2018 website with your current username/password. 
+  - Click the arrow next to the person icon in the top-right and select "Update Profile" from the drop-down menu.\\ {{:wiki:updateprofile.png?nolink&200|}}
+  - On the "Update your account profile" page, provide the new password in both the "new password" and "once again" fields, as well as your current password in the "Confirm current password" field and select the save button.
+
+{{anchor:subscriptions}}
+===== Page Subscriptions =====
+The TIDIRH 2018 website provides a Page Subscription feature that allow users to receive an auto-generated notification email when changes have been made to the website. Such changes can include edits to the content within the main body of the page, as well as changes made to the comments section found at the bottom of the page (if applicable). There are two different subscription options available as well as a couple of options for the user to decide on how they would like to receive these page notification emails.
+
+==== Manage Your Subscription ====
+  - Log into the TIDIRH 2018 website with your current username/password.
+  - Click the mail icon (Manage Subscriptions) on the right-side of the page.\\ {{:wiki:managesubscriptionbutton.png?nolink&200|}}
+  - Select appropriate options on Subscription Management page and click "Subscribe" button:\\ {{:wiki:subscriptionmanagement.png?nolink |}} \\ 
+ __Subcribe section__ 
+  *[//Page Name//] - Subscribe to particular page to which the user clicked the mail icon (Ex. Home page).
+  *[*] Subscribe to all the pages on the TIDIRH 2018 website. \\ \\  
+__Receive section__
+  ***Email on Every Change** - Receive a notification email anytime a change is made
+  ***Digest Email of Changes for each page (every 1.00 days)** - Receive a notification email summarizing the changes that were made (email does not get sent out immediately).
+
+{{anchor:discussions}}
+===== Discussions ==========
+The discussion sections at the bottom of certain pages allow registered users to log in and post questions and provide comments. 
+
+==== Comments ====
+Each comment in the discussion section contains the following four buttons: \\ 
+  *__Reply__: Use to reply to another user’s comment (rather than creating a new comment).
+  *__Edit__: Registered users can edit their own comments; admins can edit all comments.
+  *__Hide/Show__: Registered users can choose to hide their comment so that only the administrator can see it. Administrator can unhide a user’s comment if needed.
+
+**<color red>NOTE: If you require that a comment be deleted, please contact the website administrator.</color>** 
+
+===== Content Edits/File Uploads =====
+For any content edits to pages or file uploads please contact the website administrator. 
+
+===== Administrator Contact Information =====
+For web support please contact the following:\\
+Adam Mann - [[amann@scgcorp.com|amann@scgcorp.com]] \\
+Alan Keller - [[akeller@scgcorp.com|akeller@scgcorp.com]] 
+\\
+\\
+For general inquiries please contact the following:\\
+Danielle Johnikin - [[djohnikin@scgcorp.com|djohnikin@scgcorp.com]]
+

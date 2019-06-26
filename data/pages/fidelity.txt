@@ -1,0 +1,27 @@
+====== 2. Fidelity & Adaptation ======
+~~NOTOC~~
+==== Video Content ==== 
+Fidelity & Adaptation (38 minutes) - Dr. David Chambers (NCI). [[https://cbiit.webex.com/cbiit/ldr.php?RCID=c685964a8b52edbc51bb583b112d999b|Recording available here]]. The link will open a new internet page, please select the playback option.
+
+Slide deck: FINAL fidelityadaptation.pdf {{:documents:fidelity_adaption:final_fidelityadaptation.pdf|PDF (1,975 KB)}}
+
+==== Assigned Reading ====
+  *Gonzales Castro F, Yasui M. (2017). Advances in EBI Development for Diverse Populations: Towards a Science of Intervention Adaption. //Prevention Science//, 18:623-629. {{:documents:fidelity_adaption:gonzales_advances_in_ebi_development.pdf|PDF (392 KB)}} 
+  *Rabin BA, McCreight M, Battaglia C, et al. (2018). Systematic, Multimethod Assessment of Adaptations Across Four Diverse Health Systems Interventions. //Frontiers in Public Health//, 6:102. {{:documents:fidelity_adaption:rabin_et_al_multimethod_assessment.pdf|PDF (154 KB)}}
+  *Stirman SW, Miller CJ, Toder K, Calloway C. (2013). Development of a framework and coding system for modifications and adaptations of evidence-based interventions. //Implementation Science//, 2013(8). 10.1186/1748-5908-8-65. {{:documents:fidelity_adaption:stirman_et_al.pdf |PDF (1,028 KB)}}
+
+==== Optional Reading ====
+  *Allen J, Shelton R, Emmons K, Linnan L. (2018). Fidelity and Its Relationship to Implementation Effectiveness, Adaptation, and Dissemination (Chapter 16). //Dissemination and Implementation Research in Health: Translating Science to Practice//. New York; Oxford University Press.
+  *Baumann A, Cabassa L, Wiltsey-Stirman S. (2018) Adaptation in Dissemination and Implementations Science (Chapter 17). Brownson R et al. //Dissemination and Implementation Research in Health: Translating Science to Practice//. New York; Oxford University Press.
+  *Gonzales N. (2017). Expanding the Cultural Adaptation Framework for Population-Level Impact. //Prevention Science//, 18(6) 689-693. {{:documents:fidelity_adaption:gonzales_expanding_the_cultural_adaptation_framework.pdf|PDF (344 KB)}}
+  *Chambers, D.A. & Norton, W.E. (2016) The Adaptome: Advancing the Science of Intervention Adaptation. //American Journal of Preventive Medicine//, 51(4S2):S124–S131. {{:documents:fidelity_adaption:chambers_norton_2016.pdf |PDF (762 KB)}}
+
+\\ 
+**<color red>NOTE: Please provide your response to the below assignment in your small group space.</color>**
+
+**<color red>Upon completing this module, please [[https://www.surveygizmo.com/s3/4469467/Fidelity-Adaptation|evaluate it here (via SurveyGizmo)]] to help us improve the training!</color>**
+ \\
+----
+=== Assignment #2: ===
+  - Will you be measuring and monitoring the fidelity with which the evidence-based intervention is delivered? If so, how? If not, why not? To what degree is there evidence that associates level of fidelity with individual level outcomes?
+  - Will adaptations need to be made to your evidence-based intervention? If so, what aspects might need to be adapted? If applicable, what process would you use to guide those adaptations? Will you be considering how the intervention is likely to be adapted as it is delivered?

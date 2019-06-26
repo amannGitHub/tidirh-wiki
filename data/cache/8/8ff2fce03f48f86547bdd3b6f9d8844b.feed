@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- generator="FeedCreator 1.8" -->
+<?xml-stylesheet href="http://www.scgcorp.com/tidirh-wiki/lib/exe/css.php?s=feed" type="text/css"?>
+<rdf:RDF
+    xmlns="http://purl.org/rss/1.0/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <channel rdf:about="http://www.scgcorp.com/tidirh-wiki/feed.php">
+        <title>TIDIRH 2018</title>
+        <description></description>
+        <link>http://www.scgcorp.com/tidirh-wiki/</link>
+        <image rdf:resource="http://www.scgcorp.com/tidirh-wiki/lib/tpl/bootstrap3/images/favicon.ico" />
+       <dc:date>2018-10-18T14:50:14-0400</dc:date>
+        <items>
+            <rdf:Seq>
+            </rdf:Seq>
+        </items>
+    </channel>
+    <image rdf:about="http://www.scgcorp.com/tidirh-wiki/lib/tpl/bootstrap3/images/favicon.ico">
+        <title>TIDIRH 2018</title>
+        <link>http://www.scgcorp.com/tidirh-wiki/</link>
+        <url>http://www.scgcorp.com/tidirh-wiki/lib/tpl/bootstrap3/images/favicon.ico</url>
+    </image>
+</rdf:RDF>

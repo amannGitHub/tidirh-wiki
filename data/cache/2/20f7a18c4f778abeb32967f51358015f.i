@@ -1,0 +1,1 @@
+a:3:{i:0;a:3:{i:0;s:14:"document_start";i:1;a:0:{}i:2;i:0;}i:1;a:3:{i:0;s:6:"plugin";i:1;a:4:{i:0;s:9:"groupmail";i:1;a:1:{s:7:"togroup";s:4:"user";}i:2;i:5;i:3;s:26:"{{groupmail>togroup=user}}";}i:2;i:1;}i:2;a:3:{i:0;s:12:"document_end";i:1;a:0:{}i:2;i:1;}}

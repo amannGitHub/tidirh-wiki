@@ -1,0 +1,307 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- generator="FeedCreator 1.8" -->
+<?xml-stylesheet href="http://www.scgcorp.com/tidirh-wiki/lib/exe/css.php?s=feed" type="text/css"?>
+<rdf:RDF
+    xmlns="http://purl.org/rss/1.0/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <channel rdf:about="http://www.scgcorp.com/tidirh-wiki/feed.php">
+        <title>TIDIRH 2018</title>
+        <description></description>
+        <link>http://www.scgcorp.com/tidirh-wiki/</link>
+        <image rdf:resource="http://www.scgcorp.com/tidirh-wiki/lib/tpl/bootstrap3/images/favicon.ico" />
+       <dc:date>2018-10-18T15:54:13-0400</dc:date>
+        <items>
+            <rdf:Seq>
+                <rdf:li rdf:resource="http://www.scgcorp.com/tidirh-wiki/doku.php?id=primary_care&amp;rev=1539265154&amp;do=diff"/>
+                <rdf:li rdf:resource="http://www.scgcorp.com/tidirh-wiki/doku.php?id=mental_health&amp;rev=1539265138&amp;do=diff"/>
+                <rdf:li rdf:resource="http://www.scgcorp.com/tidirh-wiki/doku.php?id=maternal_child_health&amp;rev=1539265121&amp;do=diff"/>
+                <rdf:li rdf:resource="http://www.scgcorp.com/tidirh-wiki/doku.php?id=hiv_aids&amp;rev=1539265106&amp;do=diff"/>
+                <rdf:li rdf:resource="http://www.scgcorp.com/tidirh-wiki/doku.php?id=health_systems&amp;rev=1539265085&amp;do=diff"/>
+                <rdf:li rdf:resource="http://www.scgcorp.com/tidirh-wiki/doku.php?id=clinical_care_delivery&amp;rev=1539265069&amp;do=diff"/>
+                <rdf:li rdf:resource="http://www.scgcorp.com/tidirh-wiki/doku.php?id=cancer&amp;rev=1539265051&amp;do=diff"/>
+                <rdf:li rdf:resource="http://www.scgcorp.com/tidirh-wiki/doku.php?id=community_based_settings&amp;rev=1539265034&amp;do=diff"/>
+                <rdf:li rdf:resource="http://www.scgcorp.com/tidirh-wiki/doku.php?id=home&amp;rev=1539264989&amp;do=diff"/>
+                <rdf:li rdf:resource="http://www.scgcorp.com/tidirh-wiki/doku.php?id=resources&amp;rev=1539119143&amp;do=diff"/>
+                <rdf:li rdf:resource="http://www.scgcorp.com/tidirh-wiki/doku.php?image=headshots%3Afaculty%3Abrianoldenburg_130x160.png&amp;ns=headshots%3Afaculty&amp;rev=1536153000&amp;tab_details=history&amp;mediado=diff&amp;do=media"/>
+                <rdf:li rdf:resource="http://www.scgcorp.com/tidirh-wiki/doku.php?image=headshots%3Afaculty%3Adenisepintello_130x160.png&amp;ns=headshots%3Afaculty&amp;rev=1535565808&amp;tab_details=history&amp;mediado=diff&amp;do=media"/>
+                <rdf:li rdf:resource="http://www.scgcorp.com/tidirh-wiki/doku.php?image=headshots%3Afaculty%3Arachelsturke_130x160.png&amp;ns=headshots%3Afaculty&amp;rev=1535470276&amp;tab_details=history&amp;mediado=diff&amp;do=media"/>
+                <rdf:li rdf:resource="http://www.scgcorp.com/tidirh-wiki/doku.php?image=headshots%3Afaculty%3Anickbowersox_130x160.png&amp;ns=headshots%3Afaculty&amp;rev=1534856896&amp;tab_details=history&amp;mediado=diff&amp;do=media"/>
+                <rdf:li rdf:resource="http://www.scgcorp.com/tidirh-wiki/doku.php?image=headshots%3Afaculty%3Achristianhelfrich_130x160.png&amp;ns=headshots%3Afaculty&amp;rev=1534362355&amp;tab_details=history&amp;mediado=diff&amp;do=media"/>
+                <rdf:li rdf:resource="http://www.scgcorp.com/tidirh-wiki/doku.php?image=headshots%3Afaculty%3Alindseyzimmerman_130x160.png&amp;ns=headshots%3Afaculty&amp;rev=1534361428&amp;tab_details=history&amp;mediado=diff&amp;do=media"/>
+                <rdf:li rdf:resource="http://www.scgcorp.com/tidirh-wiki/doku.php?image=headshots%3Afaculty%3Alindakupfer_130x160.png&amp;ns=headshots%3Afaculty&amp;rev=1534338954&amp;tab_details=history&amp;mediado=diff&amp;do=media"/>
+                <rdf:li rdf:resource="http://www.scgcorp.com/tidirh-wiki/doku.php?image=headshots%3Aapplicant%3Alydiapace_130x160.png&amp;ns=headshots%3Aapplicant&amp;rev=1534338417&amp;tab_details=history&amp;mediado=diff&amp;do=media"/>
+                <rdf:li rdf:resource="http://www.scgcorp.com/tidirh-wiki/doku.php?image=headshots%3Aapplicant%3Akimberlyfisher_130x160.png&amp;ns=headshots%3Aapplicant&amp;rev=1534338134&amp;tab_details=history&amp;mediado=diff&amp;do=media"/>
+                <rdf:li rdf:resource="http://www.scgcorp.com/tidirh-wiki/doku.php?image=headshots%3Aapplicant%3Ailanapinsky_130x160.png&amp;ns=headshots%3Aapplicant&amp;rev=1534338134&amp;tab_details=history&amp;mediado=diff&amp;do=media"/>
+            </rdf:Seq>
+        </items>
+    </channel>
+    <image rdf:about="http://www.scgcorp.com/tidirh-wiki/lib/tpl/bootstrap3/images/favicon.ico">
+        <title>TIDIRH 2018</title>
+        <link>http://www.scgcorp.com/tidirh-wiki/</link>
+        <url>http://www.scgcorp.com/tidirh-wiki/lib/tpl/bootstrap3/images/favicon.ico</url>
+    </image>
+    <item rdf:about="http://www.scgcorp.com/tidirh-wiki/doku.php?id=primary_care&amp;rev=1539265154&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2018-10-11T09:39:14-0400</dc:date>
+        <dc:creator>admin (admin@undisclosed.example.com)</dc:creator>
+        <title>primary_care</title>
+        <link>http://www.scgcorp.com/tidirh-wiki/doku.php?id=primary_care&amp;rev=1539265154&amp;do=diff</link>
+        <description>Small Group - Primary Care
+
+
+
+For more information on starting a discussion post, visit this link. For information on how to monitor your small group thread and receive email notifications, visit this link.
+
+Facilitators:
+
+	* Christian Helfrich
+	* Mike Engelgau</description>
+    </item>
+    <item rdf:about="http://www.scgcorp.com/tidirh-wiki/doku.php?id=mental_health&amp;rev=1539265138&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2018-10-11T09:38:58-0400</dc:date>
+        <dc:creator>admin (admin@undisclosed.example.com)</dc:creator>
+        <title>mental_health</title>
+        <link>http://www.scgcorp.com/tidirh-wiki/doku.php?id=mental_health&amp;rev=1539265138&amp;do=diff</link>
+        <description>Small Group - Mental Health
+
+
+
+For more information on starting a discussion post, visit this link. For information on how to monitor your small group thread and receive email notifications, visit this link.
+
+Facilitators:
+
+	* Denny Pintello
+	* Lindsey Zimmerman</description>
+    </item>
+    <item rdf:about="http://www.scgcorp.com/tidirh-wiki/doku.php?id=maternal_child_health&amp;rev=1539265121&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2018-10-11T09:38:41-0400</dc:date>
+        <dc:creator>admin (admin@undisclosed.example.com)</dc:creator>
+        <title>maternal_child_health</title>
+        <link>http://www.scgcorp.com/tidirh-wiki/doku.php?id=maternal_child_health&amp;rev=1539265121&amp;do=diff</link>
+        <description>Small Group - Maternal &amp; Child Health
+
+
+
+For more information on starting a discussion post, visit this link. For information on how to monitor your small group thread and receive email notifications, visit this link.
+
+Facilitators:
+
+	* Rachel Sturke
+	* Lauren Brookman-Frazee</description>
+    </item>
+    <item rdf:about="http://www.scgcorp.com/tidirh-wiki/doku.php?id=hiv_aids&amp;rev=1539265106&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2018-10-11T09:38:26-0400</dc:date>
+        <dc:creator>admin (admin@undisclosed.example.com)</dc:creator>
+        <title>hiv_aids</title>
+        <link>http://www.scgcorp.com/tidirh-wiki/doku.php?id=hiv_aids&amp;rev=1539265106&amp;do=diff</link>
+        <description>Small Group - HIV/AIDS
+
+
+
+For more information on starting a discussion post, visit this link. For information on how to monitor your small group thread and receive email notifications, visit this link.
+
+Facilitators:
+
+	* Chris Gordon
+	* Linda Kupfer
+
+Members:</description>
+    </item>
+    <item rdf:about="http://www.scgcorp.com/tidirh-wiki/doku.php?id=health_systems&amp;rev=1539265085&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2018-10-11T09:38:05-0400</dc:date>
+        <dc:creator>admin (admin@undisclosed.example.com)</dc:creator>
+        <title>health_systems</title>
+        <link>http://www.scgcorp.com/tidirh-wiki/doku.php?id=health_systems&amp;rev=1539265085&amp;do=diff</link>
+        <description>Small Group - Health Systems
+
+
+
+For more information on starting a discussion post, visit this link. For information on how to monitor your small group thread and receive email notifications, visit this link.
+
+Facilitators:
+
+	* Lori Ducharme
+	* David Goodrich</description>
+    </item>
+    <item rdf:about="http://www.scgcorp.com/tidirh-wiki/doku.php?id=clinical_care_delivery&amp;rev=1539265069&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2018-10-11T09:37:49-0400</dc:date>
+        <dc:creator>admin (admin@undisclosed.example.com)</dc:creator>
+        <title>clinical_care_delivery</title>
+        <link>http://www.scgcorp.com/tidirh-wiki/doku.php?id=clinical_care_delivery&amp;rev=1539265069&amp;do=diff</link>
+        <description>Small Group - Clinical Care Delivery
+
+
+
+For more information on starting a discussion post, visit this link. For information on how to monitor your small group thread and receive email notifications, visit this link.
+
+Facilitators:
+
+	* Kate Stoney
+	* Augie Diana</description>
+    </item>
+    <item rdf:about="http://www.scgcorp.com/tidirh-wiki/doku.php?id=cancer&amp;rev=1539265051&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2018-10-11T09:37:31-0400</dc:date>
+        <dc:creator>admin (admin@undisclosed.example.com)</dc:creator>
+        <title>cancer</title>
+        <link>http://www.scgcorp.com/tidirh-wiki/doku.php?id=cancer&amp;rev=1539265051&amp;do=diff</link>
+        <description>Small Group - Cancer
+
+
+
+For more information on starting a discussion post, visit this link. For information on how to monitor your small group thread and receive email notifications, visit this link.
+
+Facilitators:
+
+	* Gila Neta
+	* Wynne Norton
+	* David Chambers</description>
+    </item>
+    <item rdf:about="http://www.scgcorp.com/tidirh-wiki/doku.php?id=community_based_settings&amp;rev=1539265034&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2018-10-11T09:37:14-0400</dc:date>
+        <dc:creator>admin (admin@undisclosed.example.com)</dc:creator>
+        <title>community_based_settings</title>
+        <link>http://www.scgcorp.com/tidirh-wiki/doku.php?id=community_based_settings&amp;rev=1539265034&amp;do=diff</link>
+        <description>Small Group - Community Based Settings
+
+
+
+For more information on starting a discussion post, visit this link. For information on how to monitor your small group thread and receive email notifications, visit this link.
+
+Facilitators:
+
+	* Belinda Sims
+	* Lisa Saldana</description>
+    </item>
+    <item rdf:about="http://www.scgcorp.com/tidirh-wiki/doku.php?id=home&amp;rev=1539264989&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2018-10-11T09:36:29-0400</dc:date>
+        <dc:creator>admin (admin@undisclosed.example.com)</dc:creator>
+        <title>home</title>
+        <link>http://www.scgcorp.com/tidirh-wiki/doku.php?id=home&amp;rev=1539264989&amp;do=diff</link>
+        <description>Welcome!
+
+This is the private workspace for participants in the 2018 Training Institute for Dissemination and Implementation Research in Health (TIDIRH) hosted by the Office of Behavioral and Social Sciences Research in coordination with a number of National Institutes of Health (NIH) Institutes and Centers and the U.S. Department of Veterans Affairs (VA). You can find the course materials and your small group discussion pages using the sidebar navigation. Please take a moment to familiarize you…</description>
+    </item>
+    <item rdf:about="http://www.scgcorp.com/tidirh-wiki/doku.php?id=resources&amp;rev=1539119143&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2018-10-09T17:05:43-0400</dc:date>
+        <dc:creator>admin (admin@undisclosed.example.com)</dc:creator>
+        <title>resources</title>
+        <link>http://www.scgcorp.com/tidirh-wiki/doku.php?id=resources&amp;rev=1539119143&amp;do=diff</link>
+        <description>Resources
+
+
+
+Q&amp;A Call
+
+TIDIRH Live Q&amp;A Faculty WebEx Session-20181009 1801-1 (1 hour 6 minutes) 
+
+Tuesday, October 9, 2018 
+
+2:00 pm Eastern Daylight time 
+
+
+
+General Websites
+
+	* ODP D&amp;I Resources 
+	* NCI DCCPS Implementation Science Team
+	* Cancer Control P.L.A.N.E.T. (Plan, Link, Act, Network with Evidence-based Tools)
+	* Implementation Science Journal
+	* WHO Implementation Research Platform
+	* KT Canada
+	* Implementation Science Exchange
+	* WHO TDR Implementation Toolkit
+
+Suggested textbook …</description>
+    </item>
+    <item rdf:about="http://www.scgcorp.com/tidirh-wiki/doku.php?image=headshots%3Afaculty%3Abrianoldenburg_130x160.png&amp;ns=headshots%3Afaculty&amp;rev=1536153000&amp;tab_details=history&amp;mediado=diff&amp;do=media">
+        <dc:format>text/html</dc:format>
+        <dc:date>2018-09-05T09:10:00-0400</dc:date>
+        <dc:creator>admin (admin@undisclosed.example.com)</dc:creator>
+        <title>headshots:faculty:brianoldenburg_130x160.png</title>
+        <link>http://www.scgcorp.com/tidirh-wiki/doku.php?image=headshots%3Afaculty%3Abrianoldenburg_130x160.png&amp;ns=headshots%3Afaculty&amp;rev=1536153000&amp;tab_details=history&amp;mediado=diff&amp;do=media</link>
+        <description>&lt;img src=&quot;http://www.scgcorp.com/tidirh-wiki/lib/exe/fetch.php?w=130&amp;h=160&amp;t=1536153000&amp;amp;tok=79e1ff&amp;amp;media=headshots:faculty:brianoldenburg_130x160.png&quot; alt=&quot;headshots:faculty:brianoldenburg_130x160.png&quot; /&gt;</description>
+    </item>
+    <item rdf:about="http://www.scgcorp.com/tidirh-wiki/doku.php?image=headshots%3Afaculty%3Adenisepintello_130x160.png&amp;ns=headshots%3Afaculty&amp;rev=1535565808&amp;tab_details=history&amp;mediado=diff&amp;do=media">
+        <dc:format>text/html</dc:format>
+        <dc:date>2018-08-29T14:03:28-0400</dc:date>
+        <dc:creator>admin (admin@undisclosed.example.com)</dc:creator>
+        <title>headshots:faculty:denisepintello_130x160.png - created</title>
+        <link>http://www.scgcorp.com/tidirh-wiki/doku.php?image=headshots%3Afaculty%3Adenisepintello_130x160.png&amp;ns=headshots%3Afaculty&amp;rev=1535565808&amp;tab_details=history&amp;mediado=diff&amp;do=media</link>
+        <description>&lt;img src=&quot;http://www.scgcorp.com/tidirh-wiki/lib/exe/fetch.php?w=130&amp;h=160&amp;t=1535565808&amp;amp;tok=64bd8e&amp;amp;media=headshots:faculty:denisepintello_130x160.png&quot; alt=&quot;headshots:faculty:denisepintello_130x160.png&quot; /&gt;</description>
+    </item>
+    <item rdf:about="http://www.scgcorp.com/tidirh-wiki/doku.php?image=headshots%3Afaculty%3Arachelsturke_130x160.png&amp;ns=headshots%3Afaculty&amp;rev=1535470276&amp;tab_details=history&amp;mediado=diff&amp;do=media">
+        <dc:format>text/html</dc:format>
+        <dc:date>2018-08-28T11:31:16-0400</dc:date>
+        <dc:creator>admin (admin@undisclosed.example.com)</dc:creator>
+        <title>headshots:faculty:rachelsturke_130x160.png - created</title>
+        <link>http://www.scgcorp.com/tidirh-wiki/doku.php?image=headshots%3Afaculty%3Arachelsturke_130x160.png&amp;ns=headshots%3Afaculty&amp;rev=1535470276&amp;tab_details=history&amp;mediado=diff&amp;do=media</link>
+        <description>&lt;img src=&quot;http://www.scgcorp.com/tidirh-wiki/lib/exe/fetch.php?w=130&amp;h=160&amp;t=1535470276&amp;amp;tok=1488e9&amp;amp;media=headshots:faculty:rachelsturke_130x160.png&quot; alt=&quot;headshots:faculty:rachelsturke_130x160.png&quot; /&gt;</description>
+    </item>
+    <item rdf:about="http://www.scgcorp.com/tidirh-wiki/doku.php?image=headshots%3Afaculty%3Anickbowersox_130x160.png&amp;ns=headshots%3Afaculty&amp;rev=1534856896&amp;tab_details=history&amp;mediado=diff&amp;do=media">
+        <dc:format>text/html</dc:format>
+        <dc:date>2018-08-21T09:08:16-0400</dc:date>
+        <dc:creator>admin (admin@undisclosed.example.com)</dc:creator>
+        <title>headshots:faculty:nickbowersox_130x160.png - created</title>
+        <link>http://www.scgcorp.com/tidirh-wiki/doku.php?image=headshots%3Afaculty%3Anickbowersox_130x160.png&amp;ns=headshots%3Afaculty&amp;rev=1534856896&amp;tab_details=history&amp;mediado=diff&amp;do=media</link>
+        <description>&lt;img src=&quot;http://www.scgcorp.com/tidirh-wiki/lib/exe/fetch.php?w=130&amp;h=160&amp;t=1534856896&amp;amp;tok=0167a0&amp;amp;media=headshots:faculty:nickbowersox_130x160.png&quot; alt=&quot;headshots:faculty:nickbowersox_130x160.png&quot; /&gt;</description>
+    </item>
+    <item rdf:about="http://www.scgcorp.com/tidirh-wiki/doku.php?image=headshots%3Afaculty%3Achristianhelfrich_130x160.png&amp;ns=headshots%3Afaculty&amp;rev=1534362355&amp;tab_details=history&amp;mediado=diff&amp;do=media">
+        <dc:format>text/html</dc:format>
+        <dc:date>2018-08-15T15:45:55-0400</dc:date>
+        <dc:creator>admin (admin@undisclosed.example.com)</dc:creator>
+        <title>headshots:faculty:christianhelfrich_130x160.png - created</title>
+        <link>http://www.scgcorp.com/tidirh-wiki/doku.php?image=headshots%3Afaculty%3Achristianhelfrich_130x160.png&amp;ns=headshots%3Afaculty&amp;rev=1534362355&amp;tab_details=history&amp;mediado=diff&amp;do=media</link>
+        <description>&lt;img src=&quot;http://www.scgcorp.com/tidirh-wiki/lib/exe/fetch.php?w=130&amp;h=160&amp;t=1534362355&amp;amp;tok=e00419&amp;amp;media=headshots:faculty:christianhelfrich_130x160.png&quot; alt=&quot;headshots:faculty:christianhelfrich_130x160.png&quot; /&gt;</description>
+    </item>
+    <item rdf:about="http://www.scgcorp.com/tidirh-wiki/doku.php?image=headshots%3Afaculty%3Alindseyzimmerman_130x160.png&amp;ns=headshots%3Afaculty&amp;rev=1534361428&amp;tab_details=history&amp;mediado=diff&amp;do=media">
+        <dc:format>text/html</dc:format>
+        <dc:date>2018-08-15T15:30:28-0400</dc:date>
+        <dc:creator>admin (admin@undisclosed.example.com)</dc:creator>
+        <title>headshots:faculty:lindseyzimmerman_130x160.png - created</title>
+        <link>http://www.scgcorp.com/tidirh-wiki/doku.php?image=headshots%3Afaculty%3Alindseyzimmerman_130x160.png&amp;ns=headshots%3Afaculty&amp;rev=1534361428&amp;tab_details=history&amp;mediado=diff&amp;do=media</link>
+        <description>&lt;img src=&quot;http://www.scgcorp.com/tidirh-wiki/lib/exe/fetch.php?w=130&amp;h=160&amp;t=1534361428&amp;amp;tok=8f5f1a&amp;amp;media=headshots:faculty:lindseyzimmerman_130x160.png&quot; alt=&quot;headshots:faculty:lindseyzimmerman_130x160.png&quot; /&gt;</description>
+    </item>
+    <item rdf:about="http://www.scgcorp.com/tidirh-wiki/doku.php?image=headshots%3Afaculty%3Alindakupfer_130x160.png&amp;ns=headshots%3Afaculty&amp;rev=1534338954&amp;tab_details=history&amp;mediado=diff&amp;do=media">
+        <dc:format>text/html</dc:format>
+        <dc:date>2018-08-15T09:15:54-0400</dc:date>
+        <dc:creator>admin (admin@undisclosed.example.com)</dc:creator>
+        <title>headshots:faculty:lindakupfer_130x160.png - created</title>
+        <link>http://www.scgcorp.com/tidirh-wiki/doku.php?image=headshots%3Afaculty%3Alindakupfer_130x160.png&amp;ns=headshots%3Afaculty&amp;rev=1534338954&amp;tab_details=history&amp;mediado=diff&amp;do=media</link>
+        <description>&lt;img src=&quot;http://www.scgcorp.com/tidirh-wiki/lib/exe/fetch.php?w=130&amp;h=160&amp;t=1534338954&amp;amp;tok=76c970&amp;amp;media=headshots:faculty:lindakupfer_130x160.png&quot; alt=&quot;headshots:faculty:lindakupfer_130x160.png&quot; /&gt;</description>
+    </item>
+    <item rdf:about="http://www.scgcorp.com/tidirh-wiki/doku.php?image=headshots%3Aapplicant%3Alydiapace_130x160.png&amp;ns=headshots%3Aapplicant&amp;rev=1534338417&amp;tab_details=history&amp;mediado=diff&amp;do=media">
+        <dc:format>text/html</dc:format>
+        <dc:date>2018-08-15T09:06:57-0400</dc:date>
+        <dc:creator>admin (admin@undisclosed.example.com)</dc:creator>
+        <title>headshots:applicant:lydiapace_130x160.png - created</title>
+        <link>http://www.scgcorp.com/tidirh-wiki/doku.php?image=headshots%3Aapplicant%3Alydiapace_130x160.png&amp;ns=headshots%3Aapplicant&amp;rev=1534338417&amp;tab_details=history&amp;mediado=diff&amp;do=media</link>
+        <description>&lt;img src=&quot;http://www.scgcorp.com/tidirh-wiki/lib/exe/fetch.php?w=130&amp;h=160&amp;t=1534338417&amp;amp;tok=b62153&amp;amp;media=headshots:applicant:lydiapace_130x160.png&quot; alt=&quot;headshots:applicant:lydiapace_130x160.png&quot; /&gt;</description>
+    </item>
+    <item rdf:about="http://www.scgcorp.com/tidirh-wiki/doku.php?image=headshots%3Aapplicant%3Akimberlyfisher_130x160.png&amp;ns=headshots%3Aapplicant&amp;rev=1534338134&amp;tab_details=history&amp;mediado=diff&amp;do=media">
+        <dc:format>text/html</dc:format>
+        <dc:date>2018-08-15T09:02:14-0400</dc:date>
+        <dc:creator>admin (admin@undisclosed.example.com)</dc:creator>
+        <title>headshots:applicant:kimberlyfisher_130x160.png - created</title>
+        <link>http://www.scgcorp.com/tidirh-wiki/doku.php?image=headshots%3Aapplicant%3Akimberlyfisher_130x160.png&amp;ns=headshots%3Aapplicant&amp;rev=1534338134&amp;tab_details=history&amp;mediado=diff&amp;do=media</link>
+        <description>&lt;img src=&quot;http://www.scgcorp.com/tidirh-wiki/lib/exe/fetch.php?w=130&amp;h=160&amp;t=1534338134&amp;amp;tok=cdcae5&amp;amp;media=headshots:applicant:kimberlyfisher_130x160.png&quot; alt=&quot;headshots:applicant:kimberlyfisher_130x160.png&quot; /&gt;</description>
+    </item>
+    <item rdf:about="http://www.scgcorp.com/tidirh-wiki/doku.php?image=headshots%3Aapplicant%3Ailanapinsky_130x160.png&amp;ns=headshots%3Aapplicant&amp;rev=1534338134&amp;tab_details=history&amp;mediado=diff&amp;do=media">
+        <dc:format>text/html</dc:format>
+        <dc:date>2018-08-15T09:02:14-0400</dc:date>
+        <dc:creator>admin (admin@undisclosed.example.com)</dc:creator>
+        <title>headshots:applicant:ilanapinsky_130x160.png - created</title>
+        <link>http://www.scgcorp.com/tidirh-wiki/doku.php?image=headshots%3Aapplicant%3Ailanapinsky_130x160.png&amp;ns=headshots%3Aapplicant&amp;rev=1534338134&amp;tab_details=history&amp;mediado=diff&amp;do=media</link>
+        <description>&lt;img src=&quot;http://www.scgcorp.com/tidirh-wiki/lib/exe/fetch.php?w=130&amp;h=160&amp;t=1534338134&amp;amp;tok=c5a7aa&amp;amp;media=headshots:applicant:ilanapinsky_130x160.png&quot; alt=&quot;headshots:applicant:ilanapinsky_130x160.png&quot; /&gt;</description>
+    </item>
+</rdf:RDF>

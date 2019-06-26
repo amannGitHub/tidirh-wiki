@@ -1,0 +1,10 @@
+a:2:{s:7:"current";a:10:{s:4:"date";a:2:{s:7:"created";i:1532527431;s:8:"modified";i:1545080345;}s:7:"creator";s:13:"administrator";s:4:"user";s:5:"admin";s:11:"last_change";a:8:{s:4:"date";i:1545080345;s:2:"ip";s:12:"192.168.2.32";s:4:"type";s:1:"E";s:2:"id";s:22:"clinical_care_delivery";s:4:"user";s:5:"admin";s:3:"sum";s:0:"";s:5:"extra";s:0:"";s:10:"sizechange";i:7;}s:11:"contributor";a:1:{s:5:"admin";s:13:"administrator";}s:5:"title";s:36:"Small Group - Clinical Care Delivery";s:11:"description";a:2:{s:15:"tableofcontents";a:3:{i:0;a:4:{s:3:"hid";s:36:"small_group_-_clinical_care_delivery";s:5:"title";s:36:"Small Group - Clinical Care Delivery";s:4:"type";s:2:"ul";s:5:"level";i:1;}i:1;a:4:{s:3:"hid";s:12:"facilitators";s:5:"title";s:13:"Facilitators:";s:4:"type";s:2:"ul";s:5:"level";i:3;}i:2;a:4:{s:3:"hid";s:7:"members";s:5:"title";s:8:"Members:";s:4:"type";s:2:"ul";s:5:"level";i:3;}}s:8:"abstract";s:262:"Small Group - Clinical Care Delivery
+
+
+
+For more information on starting a discussion post, visit this link. For information on how to monitor your small group thread and receive email notifications, visit this link.
+
+Facilitators:
+
+	* Kate Stoney
+	* Augie Diana";}s:8:"relation";a:2:{s:10:"references";a:1:{s:6:"how-to";b:1;}s:10:"firstimage";s:0:"";}s:17:"plugin_discussion";a:2:{s:6:"status";i:1;s:5:"title";N;}s:8:"internal";a:2:{s:5:"cache";b:1;s:3:"toc";b:0;}}s:10:"persistent";a:5:{s:4:"date";a:2:{s:7:"created";i:1532527431;s:8:"modified";i:1545080345;}s:7:"creator";s:13:"administrator";s:4:"user";s:5:"admin";s:11:"last_change";a:8:{s:4:"date";i:1545080345;s:2:"ip";s:12:"192.168.2.32";s:4:"type";s:1:"E";s:2:"id";s:22:"clinical_care_delivery";s:4:"user";s:5:"admin";s:3:"sum";s:0:"";s:5:"extra";s:0:"";s:10:"sizechange";i:7;}s:11:"contributor";a:1:{s:5:"admin";s:13:"administrator";}}}
